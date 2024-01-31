@@ -1,3 +1,4 @@
+//for Multiple interface
 interface inheritanceprint {
     void print();
 }
