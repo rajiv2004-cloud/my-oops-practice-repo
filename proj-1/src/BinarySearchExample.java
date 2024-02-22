@@ -1,5 +1,6 @@
 public class BinarySearchExample {
 
+
     public static int binarySearch(int[] arr, int key) {
         int left = 0;
         int right = arr.length - 1;
