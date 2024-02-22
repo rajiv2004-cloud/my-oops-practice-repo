@@ -1,5 +1,5 @@
 package MyPackage;
-import MyPackage.Firstclass;
+import MyPackage.*;
 class Secoundclass extends Firstclass {
     void method(){
         System.out.println(i);
